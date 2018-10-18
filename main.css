@@ -1,0 +1,110 @@
+.titre{
+    text-align: center;
+    font-size: 120%;
+}
+.soustitre{
+    text-align: center;
+    font-size: 80%;
+}
+p
+{
+   margin:-5px;
+   color: beige;
+}
+table{
+
+height:657px;
+margin-bottom:0px;
+margin-left:250px;
+margin-right:0px;
+margin-top:100px;
+
+height: 100px;  
+background-color: #99AED8;
+background-image: linear-gradient(#99AED8, #BB99D8); /* Standard syntax (must be last) */
+
+}
+legend{
+    color: beige;
+}
+form{
+    text-align: center;
+    width: 293px;
+    margin: 0; padding: 0; border: 0;
+}
+.bouton{
+    background-color: aqua;
+    color: beige;
+    text-align: center;
+    cursor: default;
+    width: 173px;
+}
+textarea{
+    margin: 0px; width: 165px; height: 100px;
+}
+.t2{
+  
+margin-bottom:0px;
+margin-left:0px;
+margin-right:0px;
+margin-top:0px;
+}
+.col {
+    float: left;
+    margin-top: 4px;
+    text-decoration-line: none;
+  }
+.fb {
+
+    background-color: #3B5998;
+    color: white;
+    width: 20%;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    opacity: 0.85;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 10px;
+    text-decoration: none; 
+    
+    
+}
+  
+  .twitter  {
+    background-color:#55ACEE;
+    color: white;
+    width: 20%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 10px;
+  text-decoration: none; 
+    
+   
+  }
+  
+  .google {
+    background-color: #dd4b39;
+    color: white;
+    width:  20%;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    opacity: 0.85;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 10px;
+    text-decoration: none; 
+    
+  }
+  input{
+      border: 0px;
+  }  
+  fieldset {border:0}
